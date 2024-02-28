@@ -163,4 +163,4 @@ elif region == "B":
             lose()
 
 else:
-    print("Invalid choice, you're automatically assigned to the Kanto Region.")
+    print("Invalid choice, start again.")
